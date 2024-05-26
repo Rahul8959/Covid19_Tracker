@@ -16,10 +16,10 @@ The COVID-19 Tracker App is a Python-based application designed to provide real-
 ### Default Global Report
 <img src="image/Default.jpg" alt="Default Global Report" width="450" height="400">
 
-### Brazil COVID-19 Data
+### Brazil COVID-19 Report
 <img src="image/brazil.jpg" alt="Default Global Report" width="450" height="400">
 
-### Germany COVID-19 Data
+### Germany COVID-19 Report
 <img src="image/Germany.jpg" alt="Default Global Report" width="450" height="400">
 
 ## Getting Started
